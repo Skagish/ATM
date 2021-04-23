@@ -68,11 +68,11 @@
         }
 
         [HttpPost("ATM/AddBalance")]
-        public ActionResult AddBalance(Money amount)
+        public ActionResult AddBalance(Money money)
         {
             try
             {
-                _atm.LoadMoney(amount);
+                _atm.LoadMoney(money);
                 return Ok();
             }
             catch (Exception)

@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ATMmachine", "ATMmachine\ATMmachine.csproj", "{59E13604-7FF6-4AEF-8F0B-2A9B5558B1D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ATMachine", "ATMmachine\ATMachine.csproj", "{59E13604-7FF6-4AEF-8F0B-2A9B5558B1D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtmUnitTests", "AtmUnitTests\AtmUnitTests.csproj", "{C4430323-593A-478A-A4A9-389477E862FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AtmUnitTests", "AtmUnitTests\AtmUnitTests.csproj", "{C4430323-593A-478A-A4A9-389477E862FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

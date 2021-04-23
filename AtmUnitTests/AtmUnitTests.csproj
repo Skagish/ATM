@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ATMmachine\ATMmachine.csproj" />
+    <ProjectReference Include="..\ATMmachine\ATMachine.csproj" />
   </ItemGroup>
 
 </Project>
